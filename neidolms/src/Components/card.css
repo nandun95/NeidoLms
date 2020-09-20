@@ -1,0 +1,40 @@
+.card
+{
+    margin-bottom: 20px;
+    border-radius: 50px;
+    border: 1px solid black;
+    width: 100%;
+    text-align: left;
+    margin-left: 0;
+    margin-right: 0;
+   
+}
+.pic
+{
+    height: 200px;
+    width: auto;
+}
+.person
+{
+    height: 60px;
+    width: 60px;
+    margin:10px;
+    font-weight: 600 !important;
+}
+.Thumbsup
+{
+    margin-top: 20px;
+}
+.name1
+{
+    font-weight: 600;
+}
+.likeBar
+{
+    border-bottom: 1px solid rgb(224, 221, 221);  
+}
+.follow
+{
+    margin-top: 20px;
+    width: 100%;
+}

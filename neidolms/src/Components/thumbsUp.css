@@ -1,0 +1,23 @@
+
+.Container
+{
+    margin-top: 20px;
+    width: 100%;
+}
+
+.thumbsUp
+{
+    font-size: 25px;
+    background: none;
+    border: none;
+}
+.thumbsUp:hover
+{
+    color: rgba(0, 143, 168, 0.774);
+}
+.lernmore
+{
+    margin-top: 10px;
+    width: 100%;
+    
+}

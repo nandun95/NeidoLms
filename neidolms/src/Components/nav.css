@@ -1,0 +1,37 @@
+
+
+.nav
+{
+    float: inline-end;
+   
+
+}
+.logo
+{
+    height: 50px;
+}
+.icon
+{
+    font-size: 20px;
+    
+}
+.icon2
+{
+    text-align: center;
+    margin-left: 25px;
+}
+.icon:hover
+{
+    color: #17a2b8;
+}
+.Item
+{
+    width: 300px;
+}
+.badge
+{
+    position: relative;
+    top: -10px;
+    height: auto;
+    
+}

@@ -1,0 +1,31 @@
+.App
+{
+  background-color: rgb(236, 238, 240);
+}
+.lbody
+{
+  margin-top: 40px;
+  border: 1px solid rgb(236, 238, 240);
+  width: 100%;
+}
+.sec
+{
+  margin-top: 80px;
+  width: 100%;
+}
+.courseCard
+{
+  border-radius: 100px;
+}
+.pdeatils
+{
+  position: fixed;
+}
+.con
+{
+  width: 100%;
+}
+.stkey
+{
+    width: 100%;
+}

@@ -1,0 +1,55 @@
+.profileCard
+{
+    background: none;
+    position: fixed;
+    width: 25%;
+   
+    
+   
+}
+.pcc
+{
+    width: 100%;
+}
+
+.pcc:hover
+{
+    background-color:#6c757d;
+    border-bottom: 1px solid #dc3545;
+   
+    
+   
+}
+
+.profilePic
+{
+    height: 30px;
+    width: 30px;
+    border-radius: 40px;
+    margin-right: 10px;
+   
+
+}
+.listItem
+{
+   
+    font-size: small;
+    font-weight: 600;
+    color: black !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    height: 100%;
+    
+    
+   
+}
+.listItem:hover
+{
+   color: white !important;
+}
+
+.Links
+{
+    text-decoration: none;
+}

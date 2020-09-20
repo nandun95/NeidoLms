@@ -1,0 +1,11 @@
+.rating
+{
+    font-size: 13px;
+    color: #f8f9fa !important;
+    font-weight: 400;
+    background:#343a40 ;
+    border-radius: 10px;
+    text-align: center;
+    width: 80%;
+    
+}
